@@ -4,5 +4,5 @@
 
 * mssql
 
-*(NoSQL) HBase
+* (NoSQL) HBase
 
