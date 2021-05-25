@@ -1,7 +1,7 @@
-### python SQL 사용기
+### python Database 연동
 
 * mysql 
-
+    
 * mssql
 
 * (NoSQL) HBase
