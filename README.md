@@ -7,7 +7,7 @@
 
 #### 2. (NoSQL) HBase
 * happybase 
-* rowkey를 이용한 데이터 조회(scan)
+* rowkey, filter 를 이용한 데이터 조회(scan)
 * byte형 데이터 처리
 * batch로 데이터 삽입(batch, put, send)
 
