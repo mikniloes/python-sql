@@ -1,11 +1,11 @@
 ### python Database 연동
 
-####  mysql / mssql
+#### 1. (SQL) mysql / mssql
 * pymysql / pymssql 
 * pandas를 이용한 데이터프레임 조회
 * cursor를 이용한 쿼리 수행
 
-#### (NoSQL) HBase
+#### 2. (NoSQL) HBase
 * happybase 
 * rowkey를 이용한 데이터 조회(scan)
 * byte형 데이터 처리
